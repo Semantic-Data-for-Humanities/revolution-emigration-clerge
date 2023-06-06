@@ -1,8 +1,10 @@
 # Fichiers à traiter cachés
 fichiers/*
+!fichiers/_notes.txt
 fichiers_xml/*
+!fichiers_xml/_notes.txt
 resultats/*
-
+!resultats/_notes.txt
 
 
 # Byte-compiled / optimized / DLL files
