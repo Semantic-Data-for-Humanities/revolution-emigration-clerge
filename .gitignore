@@ -1,6 +1,7 @@
 # Fichiers à traiter cachés
 fichiers/*
 fichiers_xml/*
+resultats/*
 
 
 
